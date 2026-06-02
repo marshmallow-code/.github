@@ -69,4 +69,4 @@ In practice, this means:
 
 ## Attribution
 
-This AI policy is based on [attr's AI_POLICY.md](https://github.com/python-attrs/attrs/blob/main/.github/AI_POLICY.md).
+This AI policy is based on [attrs' AI_POLICY.md](https://github.com/python-attrs/attrs/blob/main/.github/AI_POLICY.md).
