@@ -13,8 +13,6 @@ However, due to both legal and human reasons, we have to establish boundaries.
 > - Every contribution has to be backed by a human who unequivocally owns the copyright for all changes.
 >   No LLM bots in `Co-authored-by:`s.
 >
-> - DoS-by-slop leads to a permanent ban.
->
 > - Absolutely **no** unsupervised agentic tools like OpenClaw.
 >
 > ---
