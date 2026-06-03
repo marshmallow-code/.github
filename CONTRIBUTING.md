@@ -1,12 +1,12 @@
 # Contributing guidelines
 
-So you're interested in contributing to one of our [marshmallow-code projects](https://github.com/marshmallow-code)? That's awesome! We welcome contributions from anyone willing to work in good faith with other contributors and the community (see also our [Code of Conduct](./CODE_OF_CONDUCT.md)).
+So you're interested in contributing to one of our [marshmallow-code projects](https://github.com/marshmallow-code)? That's awesome! We welcome contributions from anyone willing to work in good faith with other contributors and the community (see also our [Code of Conduct](https://github.com/marshmallow-code/.github/blob/main/CODE_OF_CONDUCT.md)).
 
 > [!NOTE]
 > These guidelines apply to every project in the [marshmallow-code](https://github.com/marshmallow-code) organization. Throughout this document, replace `<repo>` with the name of the repository you're contributing to (e.g. `marshmallow`, `webargs`, `apispec`).
 
 > [!IMPORTANT]
-> If you use LLM / "AI" tools for your contributions, please read and follow our [_Generative AI / LLM Policy_](./AI_POLICY.md).
+> If you use LLM / "AI" tools for your contributions, please read and follow our [_Generative AI / LLM Policy_](https://github.com/marshmallow-code/.github/blob/main/AI_POLICY.md).
 
 ## Questions, feature requests, bug reports, and feedback…
 
